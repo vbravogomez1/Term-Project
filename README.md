@@ -4,7 +4,7 @@
 - Vanessa Bravo
 - Christian Aiza
 
-# Project Proposal: "Cosmic Calendar or StellarDate" Star Alignment Finder
+# Project Proposal: Star Alignment Finder
 
 ## The Big Idea
 
