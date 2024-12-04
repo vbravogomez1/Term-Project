@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Find Your Astronomy Picture of the Day</title>
+  </head>
+
+  <body>
+    <h1 style="color: #3C552D"> Welcome, {{username}}! 🌌</h1> <!--- Adding emojis and color to make it look nice -->
+    <p>Find the Astronomy Picture of the Day for any special date!</p>
+    <h2>Enter a Date</h2>
+    <form action="/get_apod" method="post">
+        <label for="date">Date (YYYY-MM-DD):</label>
+        <input type="date" id="date" name="date" required>
+        <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>
