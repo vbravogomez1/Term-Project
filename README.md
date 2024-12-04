@@ -29,9 +29,9 @@ This section provides detailed steps on downloading, installing, and initiating 
 The application utilizes Flask as its backend framework, serving data fetched from NASA's APOD API. The front end is crafted with HTML and CSS, providing a user-friendly interface.
 
 ### Key Technologies
-- **Flask**: for setting up the server and routes.
-- **NASA APOD API**: for fetching astronomy pictures and descriptions.
-- **Python-dotenv**: for managing environment variables.
+- Flask: for setting up the server and routes.
+- NASA APOD API: for fetching astronomy pictures and descriptions.
+- Python-dotenv: for managing environment variables.
 
 ## Project Overview
 
